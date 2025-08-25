@@ -111,4 +111,4 @@ thriftloop/
 - Database: MongoDB
 - Authentication: JWT
 - Image Storage: Cloudinary
-- Deployment: Vercel (frontend), Render (backend)
+
